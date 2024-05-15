@@ -8,7 +8,7 @@ pygame.init()
 # Configuración de la pantalla
 width, height = 700, 775
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Disparando con sandreke")
+pygame.display.set_caption("Disparar")
 
 # Cargar imágenes y escalarlas
 try:
