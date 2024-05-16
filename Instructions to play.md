@@ -4,4 +4,4 @@
 .Press the directional buttons to move<br>
 .To avoid errors, copy the /imgs folder to C:\Users\Username<br>
 
-¡ENJOY THE GAME!
+¡¡ENJOY THE GAME!!
