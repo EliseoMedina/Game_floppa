@@ -12,7 +12,7 @@ pygame.display.set_caption("Disparar")
 
 # Cargar imágenes y escalarlas
 try:
-    player_image = pygame.image.load("imgs/walter.jpg")
+    player_image = pygame.image.load("imgs/pana_walter.png")
     player_image = pygame.transform.scale(player_image, (60, 60))
 
     bullet_image = pygame.image.load("imgs/pescado.png")
